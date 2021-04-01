@@ -1,6 +1,6 @@
 # Thrive_talk landing page
 
-[DEMO LINK](https://taniazt.github.io/Thrive_talk/)
+[DEMO LINK](https://taniazt.github.io/Thrive-Talk/)
 
 ## Technologies used:
 
@@ -9,7 +9,8 @@
 - Figma
 - Pixel perfect, adaptive layout
 
-## Installing 
-  1. Fork and clone this repository
-  2. Run npm install in your terminal
-  3. Run npm start
+## Installing
+
+1. Fork and clone this repository
+2. Run npm install in your terminal
+3. Run npm start
